@@ -2,7 +2,7 @@
 Welcome to my GitHub, take some time to see what I'm up to!
 
 ## About me
-- ✏ Junior at Pennsylvania Western University's California branch with a current GPA of 3.94. (Expected Graduation: May 2026)
+- ✏ Senior at Pennsylvania Western University's California branch with a current GPA of 3.94. (Expected Graduation: May 2026)
 
 ## Skills and Past Courses
 - Programming languages: Java, JavaScript, COBOL, Assembly Language, C, C++, C#, Python, HTML
@@ -10,6 +10,8 @@ Welcome to my GitHub, take some time to see what I'm up to!
 - Object-Oriented Programming
 - Algorithm Analysis
 - Programming Concepts
+- Operating Systems
+- Structures of Programming Languages
 
 ## Current Projects
 - Fun Fact: I am an avid runner 🏃‍♂️, which is what inspired me to start my current project
@@ -19,9 +21,9 @@ Welcome to my GitHub, take some time to see what I'm up to!
 - Ideally, the app will display a total mileage, total activity count, and giving the user ability to view an individual activity. Individual activites will have mileage, pace, heart rate zone, calories burned, elevation gained, and a name.
 
 ## Current Courses
-- Operating Systems
-- Structures of Programming Languages
-- Python
+- Senior Project I
+- Theory of Languages
+- Data and Network Communication
 - General Education Credits
 
 ## Connect with Me
