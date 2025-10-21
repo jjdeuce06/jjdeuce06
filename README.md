@@ -2,7 +2,7 @@
 Welcome to my GitHub, take some time to see what I'm up to!
 
 ## About me
-- ✏ Senior at Pennsylvania Western University's California branch with a current GPA of 3.94. (Expected Graduation: May 2026)
+- ✏ Senior at Pennsylvania Western University's California branch with a current GPA of 3.91. (Expected Graduation: May 2026)
 
 ## Skills and Past Courses
 - Programming languages: Java, JavaScript, COBOL, Assembly Language, C, C++, C#, Python, HTML
