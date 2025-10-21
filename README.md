@@ -16,9 +16,8 @@ Welcome to my GitHub, take some time to see what I'm up to!
 ## Current Projects
 - Fun Fact: I am an avid runner 🏃‍♂️, which is what inspired me to start my current project
 - I am working on a running tracker. I use an app currently synced with my watch, but there is a paywall that I simply refuse to pay
-- Since my watch has the data, I want to create a program that emulates my current app
-- I would like to create a database for this app, something that I do not yet have the tools to do, but am looking for more information every day on how to do so
-- Ideally, the app will display a total mileage, total activity count, and giving the user ability to view an individual activity. Individual activites will have mileage, pace, heart rate zone, calories burned, elevation gained, and a name.
+- This running tracker has become my senior project for my university
+- My team and I hope to add a map functionality and the ability for users to be separated by athletic team or club
 
 ## Current Courses
 - Senior Project I
