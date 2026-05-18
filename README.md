@@ -2,10 +2,10 @@
 Welcome to my GitHub, take some time to see what I'm up to!
 
 ## About me
-- ✏ Senior at Pennsylvania Western University's California branch with a current GPA of 3.91. (Expected Graduation: May 2026)
+- ✏ Graduate from Pennsylvania Western University's California branch with a GPA of 3.91
 
 ## Skills and Past Courses
-- Programming languages: Java, JavaScript, COBOL, Assembly Language, C, C++, C#, Python, HTML
+- Programming languages: Java, JavaScript, COBOL, Assembly Language, C, C++, C#, Python, HTML, SQL
 - Git/GitHub
 - Object-Oriented Programming
 - Algorithm Analysis
@@ -19,21 +19,11 @@ Welcome to my GitHub, take some time to see what I'm up to!
 ### Senior Project
 - Fun Fact: I am an avid runner 🏃‍♂️, which is what inspired me to start my current project
 - I am working on a running tracker. I use an app currently synced with my watch, but there is a paywall that I simply refuse to pay
-- This running tracker has become my senior project for my university
-- My team and I hope to add a map functionality and the ability for users to be separated by athletic team or club
-### Project Hail Mary
-- I just finished the book Project Hail Mary by Andy Weir, and am so excited for the movie
-- Just for fun, I want to animate the ship, and add the feature where it detaches and spins for centripetal force
-- I plan to use Python to achieve this
-### Footy Tracker
-- I am an avid soccer fan, supporting Manchester United since 2014
-- I want to make an application to have all knowledge from europe's top leagues in one place to help those who are curious learn more about the beautiful game
-
-## Current Courses
-- Senior Project II
-- Language Translation
-- Database Programming
-- Extra Credit Course
+- This running tracker had become my senior project for my university
+- My team and I accomplished a lot, and I am planning to continue working on it to enhance it and maybe get the university to implement the application
+### OOPCSharpConversion
+- I need to touch up on my C# skills, so I have decided to rewrite old assignments in C/C++ into C#
+- I am starting with my Object-Oriented Programming Assignments, as I feel it is a good way to step back into things
 
 ## Connect with Me
 - LinkedIn Profile: https://www.linkedin.com/in/john-gerega-a2464521a/
